@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "username": "Nishu",
+            "role": "Teacher"
+        },
+        {
+            "username": "Raj",
+            "role": "Student"
+        },
+        {
+            "username": "furqan",
+            "role": "Student"
+        },
+        {
+            "username": "Erfan",
+            "role": "Teacher"
+        },
+        {
+            "username": "Keerat",
+            "role": "Student"
+        },
+        {
+            "username": "Harshit",
+            "role": "Student"
+        },
+        {
+            "username": "Shiv123",
+            "role": "Teacher"
+        }
+    ],
+    "courses": [
+        {
+            "name": "OG",
+            "components": [],
+            "content": [
+                {
+                    "type": ".pptx",
+                    "path": "uploads\\Term Projects.pptx"
+                }
+            ]
+        },
+        {
+            "name": "SDS122",
+            "components": [],
+            "content": [
+                {
+                    "type": ".ppt",
+                    "path": "uploads\\Lecture 1.ppt"
+                }
+            ]
+        },
+        {
+            "name": "ADN",
+            "components": [],
+            "content": [
+                {
+                    "type": ".pptx",
+                    "path": "uploads\\Term Projects.pptx"
+                }
+            ]
+        }
+    ],
+    "messages": [
+        {
+            "sender": "Nishu",
+            "receiver": "Raj",
+            "message": "Hi can you see the content",
+            "timestamp": "2024-08-01 15:28:46.887163"
+        },
+        {
+            "sender": "Erfan",
+            "receiver": "Keerat",
+            "message": "Content has uploded",
+            "timestamp": "2024-08-02 13:37:13.058966"
+        },
+        {
+            "sender": "Nishu",
+            "receiver": "Harshit",
+            "message": "Read content carefully.",
+            "timestamp": "2024-09-19 18:32:53.226523"
+        }
+    ]
+}
